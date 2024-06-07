@@ -1,8 +1,8 @@
 package router
 
 import (
-	"HelloWorldv2/HelloWorldv2/middleware"
-	"HelloWorldv2/Helloworldv2/handler"
+	"HelloWorldv2/TrainingGo/HelloWorldv2/middleware"
+	"HelloWorldv2/TrainingGo/Helloworldv2/handler"
 
 	"github.com/gin-gonic/gin"
 )
